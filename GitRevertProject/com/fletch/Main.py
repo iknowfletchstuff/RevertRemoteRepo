@@ -9,6 +9,8 @@ class Main(object):
     classdocs
     '''
 
+    # BAD commit1
+    # BAD commit2
 
     def __init__(self):
         pass
